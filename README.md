@@ -16,7 +16,7 @@ drawDelay = (default 0s);
 
 Exemple
 
-<svg xmlns="http://www.w3.org/2000/svg" appDrawAnimation [drawDelay]="1" [drawTime]="2" [fillTime]="1" [fillDelay]="3" ...
+<svg appDrawAnimation [drawDelay]="1" [drawTime]="2" [fillTime]="1" [fillDelay]="3" ...
 
 
 Work in progress!! :)
